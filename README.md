@@ -23,11 +23,6 @@ Ce projet vise à explorer trois outils fondamentaux en intelligence artificiell
  `spacy_nlp.ipynb`  Analyse NLP avec spaCy 
 
 
-## Présentation vidéo
-
-[Lien vers la vidéo de présentation](https://...) *(à ajouter une fois prête)*
-
-
 ## Collaboration
 
 Ce projet a été réalisé en autonomie.  
