@@ -22,6 +22,10 @@ Ce projet vise à explorer trois outils fondamentaux en intelligence artificiell
  `tensorflow_nn.ipynb`  Réseau de neurones sur le dataset MNIST 
  `spacy_nlp.ipynb`  Analyse NLP avec spaCy 
 
+ ## Présentation vidéo
+
+[Cliquez ici pour voir la vidéo sur OneDrive](https://1drv.ms/v/c/d2937c931d8e1de6/EeeECk_1ZlBBqBpUBDIfVj4BwXDWpHTVFe9CTq7OHQiB9g)
+
 
 ## Collaboration
 
