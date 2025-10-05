@@ -33,8 +33,8 @@ Ce projet vise à explorer trois outils fondamentaux en intelligence artificiell
 Ce projet a été réalisé en autonomie.  
 Je reste ouvert aux retours et échanges via la communauté LMS ou GitHub.
 
-
 ## Licence
 
-Ce projet est partagé à des fins pédagogiques.  
-Libre d’être consulté, commenté et adapté dans le respect des droits d’auteur.
+Ce projet est sous licence MIT.  
+Le fichier `LICENSE` dans ce dépôt contient les termes complets.  
+Vous êtes libre d’utiliser, modifier et partager ce projet à des fins pédagogiques et non commerciales, avec attribution à l’auteur : Mahadi106.
